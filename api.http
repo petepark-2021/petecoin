@@ -1,0 +1,13 @@
+http://localhost:4004
+
+###
+
+http://localhost:4004/blocks
+
+###
+
+POST http://localhost:4004/blocks
+
+{
+    "message": "Data for my block"
+}
