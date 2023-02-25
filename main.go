@@ -1,7 +1,9 @@
 package main
 
-import "github.com/petepark-2021/petecoin/blockchain"
+import (
+	"github.com/petepark-2021/petecoin/cli"
+)
 
 func main() {
-	blockchain.Blockchain()
+	cli.Start()
 }
