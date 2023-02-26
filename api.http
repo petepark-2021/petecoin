@@ -1,7 +1,9 @@
 http://localhost:4004
 
 ###
+http://localhost:4004/status
 
+###
 http://localhost:4004/blocks
 
 ###
